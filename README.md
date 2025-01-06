@@ -11,7 +11,7 @@
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My LinkedIn Profile](https://www.linkedin.com/in/manoj-parkale/)** Or **[Portfolio](www.manoj-parkale.vercel.app)**
+- 🙋‍♂️ All about me is at **[My LinkedIn Profile](https://www.linkedin.com/in/manoj-parkale/)** Or **[Portfolio](https://manoj-parkale.vercel.app)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
